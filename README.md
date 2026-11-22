@@ -35,17 +35,23 @@ He completado el Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones
 | Otros lenguajes | Python y C# (nivel básico) |
 | Backend y sistemas | Hilos, sockets y servicios, sistemas ERP |
 | Móvil y escritorio | Kotlin y Android, interfaces de escritorio en Java |
-| Herramientas | Git |
+| Herramientas | Git, GitHub Actions |
 
 ## Proyectos
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <a href="https://github.com/ArnauAlemanyDev/Invox"><img src="https://github.com/ArnauAlemanyDev/Invox/raw/main/docs/portada.png" alt="Portada de Invox"></a>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ArnauAlemanyDev/Invox">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ArnauAlemanyDev/Invox/raw/main/docs/banner-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://github.com/ArnauAlemanyDev/Invox/raw/main/docs/banner-light.svg">
+          <img src="https://github.com/ArnauAlemanyDev/Invox/raw/main/docs/banner-dark.svg" alt="Invox: equipos, redes y soporte" width="100%">
+        </picture>
+      </a>
       <br><b><a href="https://github.com/ArnauAlemanyDev/Invox">Invox</a></b>
-      <br>Web responsive de una consultora informática ficticia, con un catálogo interactivo de seis áreas de servicio.
-      <br><sub>React · Vite · Tailwind CSS · <a href="https://arnaualemanydev.github.io/Invox/">Demo</a></sub>
+      <br>Web responsive de una consultora informática ficticia, con un catálogo de seis áreas de servicio, navegación accesible con teclado y carga ligera. Nació en mis prácticas de DAM y la adapté para el portfolio.
+      <br><sub>React · React Router · Vite · Tailwind CSS · Framer Motion · <a href="https://arnaualemanydev.github.io/Invox/">Demo</a></sub>
     </td>
   </tr>
 </table>

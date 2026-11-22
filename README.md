@@ -5,59 +5,56 @@
   <img src="assets/header-light.svg" alt="Arnau Alemany Espert" width="100%">
 </picture>
 
-**EN** · [ES](README.es.md)
+**ES** · [EN](README.en.md)
 
 </div>
 
-**Cross-platform application developer, studying cybersecurity.**
+**Desarrollo de aplicaciones multiplataforma, estudiando ciberseguridad.**
 
-Looking for my first professional opportunity in software development, with a focus on cybersecurity.
+Busco mi primera oportunidad profesional en el desarrollo de software, con un enfoque en ciberseguridad.
 
-## About
+## Sobre mí
 
-I completed a Higher Vocational Diploma in Cross-Platform Application Development, and I am now taking a Specialization Course in Cybersecurity in IT Environments. My plan is to continue with a Computer Engineering degree.
+He completado el Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma y ahora estoy cursando el Curso de Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información. Mi plan es continuar con el Grado en Ingeniería Informática.
 
-## Path
+## Trayectoria
 
-● **Completed** · Higher Vocational Diploma in Cross-Platform Application Development
+● **Completado** · Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma
 
-◉ **In progress** · Specialization Course in Cybersecurity in IT Environments
+◉ **En curso** · Curso de Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información
 
-○ **Planned** · Computer Engineering degree
+○ **Previsto** · Grado en Ingeniería Informática
 
 ## Stack
 
-| Level | Technologies |
+| Área | Tecnologías |
 |---|---|
-| Main | Java |
-| Worked with | Kotlin and Android, SQL, HTML, CSS, JavaScript |
-| Used in coursework | **Data:** relational databases (MySQL or MariaDB, PostgreSQL, Oracle or SQL Server), NoSQL, JDBC and ORM, XML and JSON<br>**Backend:** threads, sockets and services, ERP systems<br>**Desktop:** Java desktop interfaces<br>**Tools:** Git |
-| Basic | C#, Python |
+| **Principal** | **Java** |
+| Web | JavaScript, React, HTML, CSS, Tailwind CSS |
+| Datos | SQL, bases de datos relacionales (MySQL o MariaDB, PostgreSQL, Oracle, SQL Server), NoSQL, JDBC y ORM, JSON, XML |
+| Otros lenguajes | Python y C# (nivel básico) |
+| Backend y sistemas | Hilos, sockets y servicios, sistemas ERP |
+| Móvil y escritorio | Kotlin y Android, interfaces de escritorio en Java |
+| Herramientas | Git |
 
-## Now
-
-- Completing the Specialization Course in Cybersecurity in IT Environments.
-- Curating the projects that will appear on this profile.
-
-## Contact
-
-[arnau.alemany.espert@gmail.com](mailto:arnau.alemany.espert@gmail.com)
-
-<!--
-FEATURED PROJECTS
-Uncomment this block when the first project is ready. To add a project, copy one <td> cell.
-Each project brings its own thumbnail; the frame stays the same for all of them.
-
-## Projects
+## Proyectos
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="PROJECT_URL"><img src="PROJECT_THUMBNAIL_URL" alt="Project name"></a>
-      <br><b>Project name</b>
-      <br>One-sentence purpose.
-      <br><sub>Stack · Status</sub>
+      <a href="https://github.com/ArnauAlemanyDev/Invox"><img src="https://github.com/ArnauAlemanyDev/Invox/raw/main/docs/portada.png" alt="Portada de Invox"></a>
+      <br><b><a href="https://github.com/ArnauAlemanyDev/Invox">Invox</a></b>
+      <br>Web responsive de una consultora informática ficticia, con un catálogo interactivo de seis áreas de servicio.
+      <br><sub>React · Vite · Tailwind CSS · <a href="https://arnaualemanydev.github.io/Invox/">Demo</a></sub>
     </td>
   </tr>
 </table>
--->
+
+## Ahora
+
+- Terminando el Curso de Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información.
+- Preparando los próximos proyectos que aparecerán en este perfil.
+
+## Contacto
+
+[arnau.alemany.espert@gmail.com](mailto:arnau.alemany.espert@gmail.com)

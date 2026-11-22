@@ -1,10 +1,5 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Arnau Alemany Espert" width="100%">
-</picture>
-
 [ES](README.md) · **EN**
 
 </div>

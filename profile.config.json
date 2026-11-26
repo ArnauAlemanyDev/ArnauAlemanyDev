@@ -1,0 +1,126 @@
+{
+  "username": "ArnauAlemanyDev",
+  "displayName": "Arnau Alemany",
+  "sinceFallback": 2026,
+
+  "links": {
+    "github": "https://github.com/ArnauAlemanyDev",
+    "email": "arnau.alemany.espert@gmail.com"
+  },
+
+  "projects": [
+    {
+      "repo": "ArnauAlemanyDev/Invox",
+      "name": "Invox",
+      "demo": "https://arnaualemanydev.github.io/Invox/",
+      "tech": ["React", "React Router", "Vite", "Tailwind CSS", "Framer Motion"],
+      "description": {
+        "en": "Responsive website for a fictional IT consultancy: a catalogue of six service areas, from cybersecurity to point-of-sale systems.",
+        "es": "Web responsive de una consultora informática ficticia: un catálogo de seis áreas de servicio, desde ciberseguridad hasta sistemas de punto de venta."
+      }
+    }
+  ],
+
+  "skills": {
+    "icons": false,
+    "groups": [
+      {
+        "label": { "en": "Languages", "es": "Lenguajes" },
+        "items": [
+          { "name": "Java", "icon": "openjdk" },
+          { "name": "JavaScript", "icon": "javascript" },
+          { "name": "Kotlin", "icon": "kotlin" },
+          { "name": "SQL" },
+          { "name": "Python", "icon": "python", "note": { "en": "basic", "es": "básico" } },
+          { "name": "C#", "icon": "csharp", "note": { "en": "basic", "es": "básico" } }
+        ]
+      },
+      {
+        "label": { "en": "Development", "es": "Desarrollo" },
+        "items": [
+          { "name": "React", "icon": "react" },
+          { "name": "Tailwind CSS", "icon": "tailwindcss" },
+          { "name": "HTML", "icon": "html5" },
+          { "name": "CSS", "icon": "css3" },
+          { "name": "Android", "icon": "android" },
+          { "name": { "en": "Sockets & services", "es": "Sockets y servicios" } }
+        ]
+      },
+      {
+        "label": { "en": "Databases", "es": "Bases de datos" },
+        "items": [
+          { "name": "MySQL / MariaDB", "icon": "mysql" },
+          { "name": "PostgreSQL", "icon": "postgresql" },
+          { "name": "Oracle", "icon": "oracle" },
+          { "name": "SQL Server", "icon": "microsoftsqlserver" },
+          { "name": "NoSQL" },
+          { "name": { "en": "JDBC & ORM", "es": "JDBC y ORM" } }
+        ]
+      },
+      {
+        "label": { "en": "Tooling", "es": "Herramientas" },
+        "items": [
+          { "name": "Git", "icon": "git" },
+          { "name": "GitHub Actions", "icon": "githubactions" }
+        ]
+      }
+    ]
+  },
+
+  "i18n": {
+    "en": {
+      "handle": "@arnaualemanydev · on GitHub since {year}",
+      "subtitle": "Software Developer · Cybersecurity Student",
+      "intro": "Looking for my first professional opportunity in software development, with a focus on cybersecurity.",
+      "stats": {
+        "repos": "repositories",
+        "stars": "stars",
+        "followers": "followers",
+        "contributions": "contributions, past year"
+      },
+      "sections": {
+        "work": "Selected work",
+        "skills": "Technical expertise",
+        "year": "The year in contributions",
+        "connect": "Connect"
+      },
+      "projectLinks": { "repo": "Repository", "demo": "Live demo" },
+      "chart": {
+        "contributions": { "one": "{n} contribution in the last 12 months", "other": "{n} contributions in the last 12 months" },
+        "commits": { "one": "{n} commit", "other": "{n} commits" },
+        "busiest": "busiest week {n}",
+        "none": "No contributions in the last 12 months yet",
+        "alt": "Bar chart of weekly contributions over the last 12 months."
+      },
+      "connect": { "github": "GitHub", "email": "Email" },
+      "starsAlt": "stars"
+    },
+    "es": {
+      "handle": "@arnaualemanydev · en GitHub desde {year}",
+      "subtitle": "Desarrollador de software · Estudiante de ciberseguridad",
+      "intro": "Busco mi primera oportunidad profesional en el desarrollo de software, con un enfoque en ciberseguridad.",
+      "stats": {
+        "repos": "repositorios",
+        "stars": "estrellas",
+        "followers": "seguidores",
+        "contributions": "contribuciones, último año"
+      },
+      "sections": {
+        "work": "Proyectos seleccionados",
+        "skills": "Competencias técnicas",
+        "year": "El año en contribuciones",
+        "connect": "Contacto"
+      },
+      "projectLinks": { "repo": "Repositorio", "demo": "Demo" },
+      "chart": {
+        "contributions": { "one": "{n} contribución en los últimos 12 meses", "other": "{n} contribuciones en los últimos 12 meses" },
+        "commits": { "one": "{n} commit", "other": "{n} commits" },
+        "busiest": "semana más activa: {n}",
+        "none": "Aún no hay contribuciones en los últimos 12 meses",
+        "alt": "Gráfico de barras de contribuciones semanales en los últimos 12 meses."
+      },
+      "connect": { "github": "GitHub", "email": "Correo" },
+      "starsAlt": "estrellas"
+    }
+  }
+}

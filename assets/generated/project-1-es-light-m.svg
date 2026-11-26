@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="183" viewBox="0 0 360 183" fill="none" role="img" aria-labelledby="t d">
+<title id="t">Invox</title>
+<desc id="d">01 Invox. Web responsive de una consultora informática ficticia: un catálogo de seis áreas de servicio, desde ciberseguridad hasta sistemas de punto de venta. React · React Router · Vite · Tailwind CSS · Framer Motion. 0 estrellas.</desc>
+<style>.s{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif}.m{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}</style>
+<text x="0" y="31" class="m" font-size="12.5" fill="#59636E">01</text>
+<text x="30" y="32" class="s" font-size="22" fill="#1F2328" font-weight="600" letter-spacing="-0.3">Invox</text>
+<path d="M343.00,21.00L344.35,24.64L348.23,24.80L345.19,27.21L346.23,30.95L343.00,28.80L339.77,30.95L340.81,27.21L337.77,24.80L341.65,24.64Z" fill="#59636E"/>
+<text x="360" y="31" class="m" font-size="12.5" fill="#59636E" text-anchor="end">0</text>
+<text x="30" y="60" class="s" font-size="14" fill="#3D444D">Web responsive de una consultora informática</text>
+<text x="30" y="80" class="s" font-size="14" fill="#3D444D">ficticia: un catálogo de seis áreas de servicio,</text>
+<text x="30" y="100" class="s" font-size="14" fill="#3D444D">desde ciberseguridad hasta sistemas de punto</text>
+<text x="30" y="120" class="s" font-size="14" fill="#3D444D">de venta.</text>
+<text x="30" y="146" class="m" font-size="11.5" fill="#59636E">React · React Router · Vite · Tailwind CSS</text>
+<text x="30" y="163" class="m" font-size="11.5" fill="#59636E">Framer Motion</text>
+</svg>

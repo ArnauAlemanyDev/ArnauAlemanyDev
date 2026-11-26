@@ -1,0 +1,11 @@
+{
+  "_note": "Offline fixture used by `node scripts/build.mjs --sample`. Totals come from the GitSkins screenshot (1 repository, 0 stars, 0 followers, 7 contributions, busiest week 6); the position of the small bar is an approximation. The GitHub Action replaces all of this with live data.",
+  "login": "ArnauAlemanyDev",
+  "createdAt": "2026-01-01T00:00:00Z",
+  "repos": 1,
+  "stars": 0,
+  "followers": 0,
+  "commits": null,
+  "weeklyTotals": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6],
+  "projectStars": { "ArnauAlemanyDev/Invox": 0 }
+}

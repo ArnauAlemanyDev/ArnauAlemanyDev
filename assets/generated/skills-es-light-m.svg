@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="484" viewBox="0 0 360 484" fill="none" role="img" aria-labelledby="t d">
+<title id="t">Competencias técnicas</title>
+<desc id="d">Lenguajes: Java, JavaScript, Kotlin, SQL, Python (básico), C# (básico). Desarrollo: React, Tailwind CSS, HTML, CSS, Android, Sockets y servicios. Bases de datos: MySQL / MariaDB, PostgreSQL, Oracle, SQL Server, NoSQL, JDBC y ORM. Herramientas: Git, GitHub Actions.</desc>
+<style>.s{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif}.m{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}</style>
+<text x="0" y="29" class="m" font-size="12.5" fill="#59636E">Lenguajes</text>
+<text x="0" y="55" class="s" font-size="15" fill="#1F2328">Java</text>
+<text x="180" y="55" class="s" font-size="15" fill="#1F2328">JavaScript</text>
+<text x="0" y="83" class="s" font-size="15" fill="#1F2328">Kotlin</text>
+<text x="180" y="83" class="s" font-size="15" fill="#1F2328">SQL</text>
+<text x="0" y="111" class="s" font-size="15" fill="#1F2328">Python</text>
+<text x="54.695" y="111" class="m" font-size="11.5" fill="#59636E">básico</text>
+<text x="180" y="111" class="s" font-size="15" fill="#1F2328">C#</text>
+<text x="207.17000000000002" y="111" class="m" font-size="11.5" fill="#59636E">básico</text>
+<line x1="0" y1="135.5" x2="360" y2="135.5" stroke="#D1D9E0" stroke-width="1"/>
+<text x="0" y="164" class="m" font-size="12.5" fill="#59636E">Desarrollo</text>
+<text x="0" y="190" class="s" font-size="15" fill="#1F2328">React</text>
+<text x="180" y="190" class="s" font-size="15" fill="#1F2328">Tailwind CSS</text>
+<text x="0" y="218" class="s" font-size="15" fill="#1F2328">HTML</text>
+<text x="180" y="218" class="s" font-size="15" fill="#1F2328">CSS</text>
+<text x="0" y="246" class="s" font-size="15" fill="#1F2328">Android</text>
+<text x="180" y="246" class="s" font-size="15" fill="#1F2328">Sockets y servicios</text>
+<line x1="0" y1="270.5" x2="360" y2="270.5" stroke="#D1D9E0" stroke-width="1"/>
+<text x="0" y="299" class="m" font-size="12.5" fill="#59636E">Bases de datos</text>
+<text x="0" y="325" class="s" font-size="15" fill="#1F2328">MySQL / MariaDB</text>
+<text x="180" y="325" class="s" font-size="15" fill="#1F2328">PostgreSQL</text>
+<text x="0" y="353" class="s" font-size="15" fill="#1F2328">Oracle</text>
+<text x="180" y="353" class="s" font-size="15" fill="#1F2328">SQL Server</text>
+<text x="0" y="381" class="s" font-size="15" fill="#1F2328">NoSQL</text>
+<text x="180" y="381" class="s" font-size="15" fill="#1F2328">JDBC y ORM</text>
+<line x1="0" y1="405.5" x2="360" y2="405.5" stroke="#D1D9E0" stroke-width="1"/>
+<text x="0" y="434" class="m" font-size="12.5" fill="#59636E">Herramientas</text>
+<text x="0" y="460" class="s" font-size="15" fill="#1F2328">Git</text>
+<text x="180" y="460" class="s" font-size="15" fill="#1F2328">GitHub Actions</text>
+</svg>

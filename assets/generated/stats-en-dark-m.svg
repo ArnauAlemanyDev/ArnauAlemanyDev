@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="154" viewBox="0 0 360 154" fill="none" role="img" aria-labelledby="t d">
+<title id="t">GitHub</title>
+<desc id="d">Repositories: 1. Stars: 0. Followers: 0. Contributions, past year: 7.</desc>
+<style>.s{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif}.m{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}</style>
+<line x1="0" y1="0.5" x2="360" y2="0.5" stroke="#21262D" stroke-width="1"/>
+<text x="0" y="46" class="s" font-size="28" fill="#E6EDF3" font-weight="600">1</text>
+<text x="0" y="66" class="m" font-size="12" fill="#8B949E">repositories</text>
+<text x="150" y="46" class="s" font-size="28" fill="#E6EDF3" font-weight="600">0</text>
+<text x="150" y="66" class="m" font-size="12" fill="#8B949E">stars</text>
+<text x="0" y="120" class="s" font-size="28" fill="#E6EDF3" font-weight="600">0</text>
+<text x="0" y="140" class="m" font-size="12" fill="#8B949E">followers</text>
+<text x="150" y="120" class="s" font-size="28" fill="#E6EDF3" font-weight="600">7</text>
+<text x="150" y="140" class="m" font-size="12" fill="#8B949E">contributions, past year</text>
+</svg>

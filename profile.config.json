@@ -1,104 +1,232 @@
 {
   "username": "ArnauAlemanyDev",
   "displayName": "Arnau Alemany",
-
   "projects": [
+    {
+      "repo": "ArnauAlemanyDev/Zent-ERP",
+      "name": "Zent ERP",
+      "tech": [
+        "Electron",
+        "React",
+        "Node.js",
+        "SQL Server",
+        "Docker"
+      ],
+      "description": {
+        "en": "IT service management ERP with an integrated customer portal and security-focused architecture.",
+        "es": "ERP de gestión de servicios informáticos con portal de clientes integrado y arquitectura orientada a la seguridad."
+      }
+    },
     {
       "repo": "ArnauAlemanyDev/Zent-Web",
       "name": "Zent Web",
       "demo": "https://arnaualemanydev.github.io/Zent-Web/",
-      "tech": ["React", "Vite", "Tailwind CSS", "Framer Motion"],
+      "tech": [
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "Framer Motion"
+      ],
       "description": {
         "en": "Responsive website for a fictional IT consultancy.",
         "es": "Web responsive de una consultora informática ficticia."
       }
     }
-],
-
+  ],
   "skills": {
     "icons": true,
     "groups": [
       {
-        "label": { "en": "Languages", "es": "Lenguajes" },
+        "label": {
+          "en": "Languages",
+          "es": "Lenguajes"
+        },
         "items": [
-          { "name": "Java", "icon": "mdi:language-java" },
-          { "name": "JavaScript", "icon": "javascript" },
-          { "name": "Kotlin", "icon": "kotlin" },
-          { "name": "SQL", "icon": "mdi:database" },
-          { "name": "Python", "icon": "python", "note": { "en": "basic", "es": "básico" } },
-          { "name": "C#", "icon": "mdi:language-csharp", "note": { "en": "basic", "es": "básico" } }
+          {
+            "name": "Java",
+            "icon": "mdi:language-java"
+          },
+          {
+            "name": "JavaScript",
+            "icon": "javascript"
+          },
+          {
+            "name": "Kotlin",
+            "icon": "kotlin"
+          },
+          {
+            "name": "SQL",
+            "icon": "mdi:database"
+          },
+          {
+            "name": "Python",
+            "icon": "python",
+            "note": {
+              "en": "basic",
+              "es": "básico"
+            }
+          },
+          {
+            "name": "C#",
+            "icon": "mdi:language-csharp",
+            "note": {
+              "en": "basic",
+              "es": "básico"
+            }
+          }
         ]
       },
       {
-        "label": { "en": "Development", "es": "Desarrollo" },
+        "label": {
+          "en": "Development",
+          "es": "Desarrollo"
+        },
         "items": [
-          { "name": "React", "icon": "react" },
-          { "name": "Node.js", "icon": "nodedotjs" },
-          { "name": "Angular", "icon": "angular" },
-          { "name": "Ionic", "icon": "ionic" },
-          { "name": "Android", "icon": "android" },
-          { "name": "Tailwind CSS", "icon": "tailwindcss" }
+          {
+            "name": "React",
+            "icon": "react"
+          },
+          {
+            "name": "Node.js",
+            "icon": "nodedotjs"
+          },
+          {
+            "name": "Angular",
+            "icon": "angular"
+          },
+          {
+            "name": "Ionic",
+            "icon": "ionic"
+          },
+          {
+            "name": "Android",
+            "icon": "android"
+          },
+          {
+            "name": "Tailwind CSS",
+            "icon": "tailwindcss"
+          }
         ]
       },
       {
-        "label": { "en": "Databases", "es": "Bases de datos" },
+        "label": {
+          "en": "Databases",
+          "es": "Bases de datos"
+        },
         "items": [
-          { "name": "MySQL", "icon": "mysql" },
-          { "name": "MariaDB", "icon": "mariadb" },
-          { "name": "PostgreSQL", "icon": "postgresql" },
-          { "name": "MongoDB", "icon": "mongodb" }
+          {
+            "name": "MySQL",
+            "icon": "mysql"
+          },
+          {
+            "name": "MariaDB",
+            "icon": "mariadb"
+          },
+          {
+            "name": "PostgreSQL",
+            "icon": "postgresql"
+          },
+          {
+            "name": "MongoDB",
+            "icon": "mongodb"
+          }
         ]
       },
       {
-        "label": { "en": "Infrastructure & Tooling", "es": "Infraestructura y herramientas" },
+        "label": {
+          "en": "Infrastructure & Tooling",
+          "es": "Infraestructura y herramientas"
+        },
         "items": [
-          { "name": "Docker", "icon": "docker" },
-          { "name": "Linux", "icon": "linux" },
-          { "name": "Git", "icon": "git" },
-          { "name": "GitHub Actions", "icon": "githubactions" }
+          {
+            "name": "Docker",
+            "icon": "docker"
+          },
+          {
+            "name": "Linux",
+            "icon": "linux"
+          },
+          {
+            "name": "Git",
+            "icon": "git"
+          },
+          {
+            "name": "GitHub Actions",
+            "icon": "githubactions"
+          }
         ]
       }
     ]
   },
-
   "education": [
     {
-      "title": { "en": "Cybersecurity in IT Environments", "es": "Ciberseguridad en Entornos de las Tecnologías\nde la Información" },
-      "kind": { "en": "Specialization Course", "es": "Curso de Especialización" },
-      "detail": { "en": "Ongoing", "es": "En curso" },
+      "title": {
+        "en": "Cybersecurity in IT Environments",
+        "es": "Ciberseguridad en Entornos de las Tecnologías\nde la Información"
+      },
+      "kind": {
+        "en": "Specialization Course",
+        "es": "Curso de Especialización"
+      },
+      "detail": {
+        "en": "Ongoing",
+        "es": "En curso"
+      },
       "ongoing": true
     },
     {
-      "title": { "en": "Multiplatform Application Development", "es": "Desarrollo de Aplicaciones Multiplataforma" },
-      "kind": { "en": "Higher Vocational Education", "es": "Ciclo Formativo de Grado Superior" },
+      "title": {
+        "en": "Multiplatform Application Development",
+        "es": "Desarrollo de Aplicaciones Multiplataforma"
+      },
+      "kind": {
+        "en": "Higher Vocational Education",
+        "es": "Ciclo Formativo de Grado Superior"
+      },
       "detail": "2026"
     }
   ],
-
   "contact": [
     {
       "id": "email",
       "enabled": true,
       "href": "mailto:arnau.alemany.espert@gmail.com",
-      "label": { "en": "Email", "es": "Correo" },
-      "alt": { "en": "Send an email to Arnau Alemany", "es": "Enviar un correo a Arnau Alemany" }
+      "label": {
+        "en": "Email",
+        "es": "Correo"
+      },
+      "alt": {
+        "en": "Send an email to Arnau Alemany",
+        "es": "Enviar un correo a Arnau Alemany"
+      }
     },
     {
       "id": "linkedin",
       "enabled": false,
       "href": "",
-      "label": { "en": "LinkedIn", "es": "LinkedIn" },
-      "alt": { "en": "Arnau Alemany on LinkedIn", "es": "Arnau Alemany en LinkedIn" }
+      "label": {
+        "en": "LinkedIn",
+        "es": "LinkedIn"
+      },
+      "alt": {
+        "en": "Arnau Alemany on LinkedIn",
+        "es": "Arnau Alemany en LinkedIn"
+      }
     },
     {
       "id": "portfolio",
       "enabled": false,
       "href": "",
-      "label": { "en": "Portfolio", "es": "Portfolio" },
-      "alt": { "en": "Arnau Alemany's personal portfolio", "es": "Portfolio personal de Arnau Alemany" }
+      "label": {
+        "en": "Portfolio",
+        "es": "Portfolio"
+      },
+      "alt": {
+        "en": "Arnau Alemany's personal portfolio",
+        "es": "Portfolio personal de Arnau Alemany"
+      }
     }
   ],
-
   "i18n": {
     "en": {
       "handle": "@arnaualemanydev · on GitHub since {year}",
@@ -119,8 +247,14 @@
       },
       "openRepo": "Opens the repository on GitHub",
       "chart": {
-        "contributions": { "one": "{n} contribution in the last 12 months", "other": "{n} contributions in the last 12 months" },
-        "commits": { "one": "{n} commit", "other": "{n} commits" },
+        "contributions": {
+          "one": "{n} contribution in the last 12 months",
+          "other": "{n} contributions in the last 12 months"
+        },
+        "commits": {
+          "one": "{n} commit",
+          "other": "{n} commits"
+        },
         "busiest": "busiest week {n}",
         "none": "No contributions in the last 12 months yet",
         "alt": "Bar chart of weekly contributions over the last 12 months."
@@ -145,8 +279,14 @@
       },
       "openRepo": "Abre el repositorio en GitHub",
       "chart": {
-        "contributions": { "one": "{n} contribución en los últimos 12 meses", "other": "{n} contribuciones en los últimos 12 meses" },
-        "commits": { "one": "{n} commit", "other": "{n} commits" },
+        "contributions": {
+          "one": "{n} contribución en los últimos 12 meses",
+          "other": "{n} contribuciones en los últimos 12 meses"
+        },
+        "commits": {
+          "one": "{n} commit",
+          "other": "{n} commits"
+        },
         "busiest": "semana más activa: {n}",
         "none": "Aún no hay contribuciones en los últimos 12 meses",
         "alt": "Gráfico de barras de contribuciones semanales en los últimos 12 meses."

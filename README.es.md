@@ -13,7 +13,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/stats-es-dark-m.svg">
   <source media="(max-width: 600px)" srcset="assets/generated/stats-es-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/generated/stats-es-dark.svg">
-  <img src="assets/generated/stats-es-light.svg" alt="Repositorios: 1. Estrellas: 0. Seguidores: 0. Contribuciones, último año: 7." width="100%">
+  <img src="assets/generated/stats-es-light.svg" alt="Repositorios: 2. Estrellas: 0. Seguidores: 0. Contribuciones, último año: 19." width="100%">
 </picture>
 
 <h3>
@@ -29,10 +29,10 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/project-1-es-dark-m.svg">
   <source media="(max-width: 600px)" srcset="assets/generated/project-1-es-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/generated/project-1-es-dark.svg">
-  <img src="assets/generated/project-1-es-light.svg" alt="01 Invox. Web responsive de una consultora informática ficticia: un catálogo de seis áreas de servicio, desde ciberseguridad hasta sistemas de punto de venta. React · React Router · Vite · Tailwind CSS · Framer Motion. 0 estrellas." width="100%">
+  <img src="assets/generated/project-1-es-light.svg" alt="01 Zent. Web responsive de una consultora informática ficticia: un catálogo de seis áreas de servicio, desde ciberseguridad hasta sistemas de punto de venta. React · React Router · Vite · Tailwind CSS · Framer Motion. 0 estrellas." width="100%">
 </picture>
 
-[Repositorio](https://github.com/ArnauAlemanyDev/Invox) · [Demo](https://arnaualemanydev.github.io/Invox/)
+[Repositorio](https://github.com/ArnauAlemanyDev/Zent) · [Demo](https://arnaualemanydev.github.io/Zent/)
 
 <h3>
 <picture>
@@ -63,7 +63,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/year-es-dark-m.svg">
   <source media="(max-width: 600px)" srcset="assets/generated/year-es-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/generated/year-es-dark.svg">
-  <img src="assets/generated/year-es-light.svg" alt="7 contribuciones en los últimos 12 meses · semana más activa: 6. Gráfico de barras de contribuciones semanales en los últimos 12 meses." width="100%">
+  <img src="assets/generated/year-es-light.svg" alt="19 contribuciones en los últimos 12 meses · 16 commits · semana más activa: 17. Gráfico de barras de contribuciones semanales en los últimos 12 meses." width="100%">
 </picture>
 
 <h3>

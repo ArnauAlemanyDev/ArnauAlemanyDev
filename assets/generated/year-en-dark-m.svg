@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="360" height="142" viewBox="0 0 360 142" fill="none" role="img" aria-labelledby="t d">
 <title id="t">The year in contributions</title>
-<desc id="d">7 contributions in the last 12 months · busiest week 6. Bar chart of weekly contributions over the last 12 months.</desc>
+<desc id="d">19 contributions in the last 12 months · 16 commits · busiest week 17. Bar chart of weekly contributions over the last 12 months.</desc>
 <style>.s{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif}.m{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}</style>
 <rect x="1.29" y="82" width="4.21" height="1.5" fill="#21262D"/>
 <rect x="8.08" y="82" width="4.21" height="1.5" fill="#21262D"/>
@@ -30,7 +30,7 @@
 <rect x="171.10" y="82" width="4.21" height="1.5" fill="#21262D"/>
 <rect x="177.89" y="82" width="4.21" height="1.5" fill="#21262D"/>
 <rect x="184.69" y="82" width="4.21" height="1.5" fill="#21262D"/>
-<rect x="184.69" y="68" width="4.21" height="12" rx="1" fill="#3FB950" fill-opacity="0.48"/>
+<rect x="184.69" y="74" width="4.21" height="6" rx="1" fill="#3FB950" fill-opacity="0.42"/>
 <rect x="191.48" y="82" width="4.21" height="1.5" fill="#21262D"/>
 <rect x="198.27" y="82" width="4.21" height="1.5" fill="#21262D"/>
 <rect x="205.06" y="82" width="4.21" height="1.5" fill="#21262D"/>
@@ -55,8 +55,9 @@
 <rect x="334.12" y="82" width="4.21" height="1.5" fill="#21262D"/>
 <rect x="340.91" y="82" width="4.21" height="1.5" fill="#21262D"/>
 <rect x="347.71" y="82" width="4.21" height="1.5" fill="#21262D"/>
+<rect x="347.71" y="74" width="4.21" height="6" rx="1" fill="#3FB950" fill-opacity="0.42"/>
 <rect x="354.50" y="82" width="4.21" height="1.5" fill="#21262D"/>
 <rect x="354.50" y="8" width="4.21" height="72" rx="1" fill="#3FB950" fill-opacity="1.00"/>
-<text x="0" y="110" class="m" font-size="11.5" fill="#8B949E">7 contributions in the last 12 months</text>
-<text x="0" y="128" class="m" font-size="11.5" fill="#8B949E">busiest week 6</text>
+<text x="0" y="110" class="m" font-size="11.5" fill="#8B949E">19 contributions in the last 12 months</text>
+<text x="0" y="128" class="m" font-size="11.5" fill="#8B949E">16 commits · busiest week 17</text>
 </svg>

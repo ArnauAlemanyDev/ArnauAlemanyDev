@@ -57,14 +57,6 @@
           { "name": "Git", "icon": "git" },
           { "name": "GitHub Actions", "icon": "githubactions" }
         ]
-      },
-      {
-        "label": { "en": "Cybersecurity", "es": "Ciberseguridad" },
-        "items": [
-          { "name": "Kali Linux", "icon": "kalilinux" },
-          { "name": "Nmap", "icon": "mdi:radar" },
-          { "name": "Nessus", "icon": "mdi:shield-bug" }
-        ]
       }
     ]
   },

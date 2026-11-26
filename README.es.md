@@ -47,7 +47,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/skills-es-dark-m.svg">
   <source media="(max-width: 600px)" srcset="assets/generated/skills-es-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/generated/skills-es-dark.svg">
-  <img src="assets/generated/skills-es-light.svg" alt="Lenguajes: Java, JavaScript, Kotlin, SQL, Python (básico), C# (básico). Desarrollo: React, Node.js, Angular, Ionic, Android, HTML, CSS, Tailwind CSS. Bases de datos: MySQL, MariaDB, PostgreSQL, MongoDB. Infraestructura y herramientas: Docker, Linux, Git, GitHub Actions, VirtualBox. Ciberseguridad: Kali Linux, Nmap, Nessus." width="100%">
+  <img src="assets/generated/skills-es-light.svg" alt="Lenguajes: Java, JavaScript, Kotlin, SQL, Python (básico), C# (básico). Desarrollo: React, Node.js, Angular, Ionic, Android, Tailwind CSS. Bases de datos: MySQL, MariaDB, PostgreSQL, MongoDB. Infraestructura y herramientas: Docker, Linux, Git, GitHub Actions. Ciberseguridad: Kali Linux, Nmap, Nessus." width="100%">
 </picture>
 
 <h3>

@@ -10,9 +10,9 @@
 
   "projects": [
     {
-      "repo": "ArnauAlemanyDev/Invox",
-      "name": "Invox",
-      "demo": "https://arnaualemanydev.github.io/Invox/",
+      "repo": "ArnauAlemanyDev/Zent",
+      "name": "Zent",
+      "demo": "https://arnaualemanydev.github.io/Zent/",
       "tech": ["React", "React Router", "Vite", "Tailwind CSS", "Framer Motion"],
       "description": {
         "en": "Responsive website for a fictional IT consultancy: a catalogue of six service areas, from cybersecurity to point-of-sale systems.",

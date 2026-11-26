@@ -4,16 +4,16 @@
 
   "projects": [
     {
-      "repo": "ArnauAlemanyDev/Zent",
-      "name": "Zent",
-      "demo": "https://arnaualemanydev.github.io/Zent/",
+      "repo": "ArnauAlemanyDev/Zent-Web",
+      "name": "Zent Web",
+      "demo": "https://arnaualemanydev.github.io/Zent-Web/",
       "tech": ["React", "Vite", "Tailwind CSS", "Framer Motion"],
       "description": {
         "en": "Responsive website for a fictional IT consultancy.",
         "es": "Web responsive de una consultora informática ficticia."
       }
     }
-  ],
+],
 
   "skills": {
     "icons": true,

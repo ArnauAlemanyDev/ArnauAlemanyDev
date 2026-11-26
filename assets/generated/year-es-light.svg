@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="140" viewBox="0 0 640 140" fill="none" role="img" aria-labelledby="t d">
 <title id="t">El año en contribuciones</title>
-<desc id="d">19 contribuciones en los últimos 12 meses · 16 commits · semana más activa: 17. Gráfico de barras de contribuciones semanales en los últimos 12 meses.</desc>
+<desc id="d">26 contribuciones en los últimos 12 meses · 23 commits · semana más activa: 24. Gráfico de barras de contribuciones semanales en los últimos 12 meses.</desc>
 <style>.s{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif}.m{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}</style>
 <rect x="2.29" y="98" width="7.49" height="1.5" fill="#D1D9E0"/>
 <rect x="14.37" y="98" width="7.49" height="1.5" fill="#D1D9E0"/>
@@ -30,7 +30,7 @@
 <rect x="304.18" y="98" width="7.49" height="1.5" fill="#D1D9E0"/>
 <rect x="316.26" y="98" width="7.49" height="1.5" fill="#D1D9E0"/>
 <rect x="328.33" y="98" width="7.49" height="1.5" fill="#D1D9E0"/>
-<rect x="328.33" y="90" width="7.49" height="6" rx="1" fill="#1A7F37" fill-opacity="0.42"/>
+<rect x="328.33" y="90" width="7.49" height="6" rx="1" fill="#1A7F37" fill-opacity="0.41"/>
 <rect x="340.41" y="98" width="7.49" height="1.5" fill="#D1D9E0"/>
 <rect x="352.48" y="98" width="7.49" height="1.5" fill="#D1D9E0"/>
 <rect x="364.56" y="98" width="7.49" height="1.5" fill="#D1D9E0"/>
@@ -55,8 +55,8 @@
 <rect x="593.99" y="98" width="7.49" height="1.5" fill="#D1D9E0"/>
 <rect x="606.07" y="98" width="7.49" height="1.5" fill="#D1D9E0"/>
 <rect x="618.14" y="98" width="7.49" height="1.5" fill="#D1D9E0"/>
-<rect x="618.14" y="90" width="7.49" height="6" rx="1" fill="#1A7F37" fill-opacity="0.42"/>
+<rect x="618.14" y="90" width="7.49" height="6" rx="1" fill="#1A7F37" fill-opacity="0.41"/>
 <rect x="630.22" y="98" width="7.49" height="1.5" fill="#D1D9E0"/>
 <rect x="630.22" y="8" width="7.49" height="88" rx="1" fill="#1A7F37" fill-opacity="1.00"/>
-<text x="0" y="126" class="m" font-size="12" fill="#59636E">19 contribuciones en los últimos 12 meses · 16 commits · semana más activa: 17</text>
+<text x="0" y="126" class="m" font-size="12" fill="#59636E">26 contribuciones en los últimos 12 meses · 23 commits · semana más activa: 24</text>
 </svg>

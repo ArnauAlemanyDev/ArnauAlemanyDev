@@ -1,77 +1,120 @@
 {
   "username": "ArnauAlemanyDev",
   "displayName": "Arnau Alemany",
-  "sinceFallback": 2026,
-
-  "links": {
-    "github": "https://github.com/ArnauAlemanyDev",
-    "email": "arnau.alemany.espert@gmail.com"
-  },
 
   "projects": [
     {
       "repo": "ArnauAlemanyDev/Zent",
       "name": "Zent",
       "demo": "https://arnaualemanydev.github.io/Zent/",
-      "tech": ["React", "React Router", "Vite", "Tailwind CSS", "Framer Motion"],
+      "tech": ["React", "Vite", "Tailwind CSS", "Framer Motion"],
       "description": {
-        "en": "Responsive website for a fictional IT consultancy: a catalogue of six service areas, from cybersecurity to point-of-sale systems.",
-        "es": "Web responsive de una consultora informática ficticia: un catálogo de seis áreas de servicio, desde ciberseguridad hasta sistemas de punto de venta."
+        "en": "Responsive website for a fictional IT consultancy.",
+        "es": "Web responsive de una consultora informática ficticia."
       }
     }
   ],
 
   "skills": {
-    "icons": false,
+    "icons": true,
     "groups": [
       {
         "label": { "en": "Languages", "es": "Lenguajes" },
         "items": [
-          { "name": "Java", "icon": "openjdk" },
+          { "name": "Java", "icon": "mdi:language-java" },
           { "name": "JavaScript", "icon": "javascript" },
           { "name": "Kotlin", "icon": "kotlin" },
-          { "name": "SQL" },
+          { "name": "SQL", "icon": "mdi:database" },
           { "name": "Python", "icon": "python", "note": { "en": "basic", "es": "básico" } },
-          { "name": "C#", "icon": "csharp", "note": { "en": "basic", "es": "básico" } }
+          { "name": "C#", "icon": "mdi:language-csharp", "note": { "en": "basic", "es": "básico" } }
         ]
       },
       {
         "label": { "en": "Development", "es": "Desarrollo" },
         "items": [
           { "name": "React", "icon": "react" },
-          { "name": "Tailwind CSS", "icon": "tailwindcss" },
-          { "name": "HTML", "icon": "html5" },
-          { "name": "CSS", "icon": "css3" },
+          { "name": "Node.js", "icon": "nodedotjs" },
+          { "name": "Angular", "icon": "angular" },
+          { "name": "Ionic", "icon": "ionic" },
           { "name": "Android", "icon": "android" },
-          { "name": { "en": "Sockets & services", "es": "Sockets y servicios" } }
+          { "name": "HTML", "icon": "html5" },
+          { "name": "CSS", "icon": "css" },
+          { "name": "Tailwind CSS", "icon": "tailwindcss" }
         ]
       },
       {
         "label": { "en": "Databases", "es": "Bases de datos" },
         "items": [
-          { "name": "MySQL / MariaDB", "icon": "mysql" },
+          { "name": "MySQL", "icon": "mysql" },
+          { "name": "MariaDB", "icon": "mariadb" },
           { "name": "PostgreSQL", "icon": "postgresql" },
-          { "name": "Oracle", "icon": "oracle" },
-          { "name": "SQL Server", "icon": "microsoftsqlserver" },
-          { "name": "NoSQL" },
-          { "name": { "en": "JDBC & ORM", "es": "JDBC y ORM" } }
+          { "name": "MongoDB", "icon": "mongodb" }
         ]
       },
       {
-        "label": { "en": "Tooling", "es": "Herramientas" },
+        "label": { "en": "Infrastructure & Tooling", "es": "Infraestructura y herramientas" },
         "items": [
+          { "name": "Docker", "icon": "docker" },
+          { "name": "Linux", "icon": "linux" },
           { "name": "Git", "icon": "git" },
-          { "name": "GitHub Actions", "icon": "githubactions" }
+          { "name": "GitHub Actions", "icon": "githubactions" },
+          { "name": "VirtualBox", "icon": "virtualbox" }
+        ]
+      },
+      {
+        "label": { "en": "Cybersecurity", "es": "Ciberseguridad" },
+        "items": [
+          { "name": "Kali Linux", "icon": "kalilinux" },
+          { "name": "Nmap", "icon": "mdi:radar" },
+          { "name": "Nessus", "icon": "mdi:shield-bug" }
         ]
       }
     ]
   },
 
+  "education": [
+    {
+      "title": { "en": "Cybersecurity in IT Environments", "es": "Ciberseguridad en Entornos de las Tecnologías\nde la Información" },
+      "kind": { "en": "Specialization Course", "es": "Curso de Especialización" },
+      "detail": { "en": "Ongoing", "es": "En curso" },
+      "ongoing": true
+    },
+    {
+      "title": { "en": "Multiplatform Application Development", "es": "Desarrollo de Aplicaciones Multiplataforma" },
+      "kind": { "en": "Higher Vocational Education", "es": "Ciclo Formativo de Grado Superior" },
+      "detail": "2026"
+    }
+  ],
+
+  "contact": [
+    {
+      "id": "email",
+      "enabled": true,
+      "href": "mailto:arnau.alemany.espert@gmail.com",
+      "label": { "en": "Email", "es": "Correo" },
+      "alt": { "en": "Send an email to Arnau Alemany", "es": "Enviar un correo a Arnau Alemany" }
+    },
+    {
+      "id": "linkedin",
+      "enabled": false,
+      "href": "",
+      "label": { "en": "LinkedIn", "es": "LinkedIn" },
+      "alt": { "en": "Arnau Alemany on LinkedIn", "es": "Arnau Alemany en LinkedIn" }
+    },
+    {
+      "id": "portfolio",
+      "enabled": false,
+      "href": "",
+      "label": { "en": "Portfolio", "es": "Portfolio" },
+      "alt": { "en": "Arnau Alemany's personal portfolio", "es": "Portfolio personal de Arnau Alemany" }
+    }
+  ],
+
   "i18n": {
     "en": {
       "handle": "@arnaualemanydev · on GitHub since {year}",
       "subtitle": "Software Developer · Cybersecurity Student",
-      "intro": "Looking for my first professional opportunity in software development, with a focus on cybersecurity.",
+      "intro": "Building software with a focus on security, functionality and user experience.",
       "stats": {
         "repos": "repositories",
         "stars": "stars",
@@ -81,24 +124,23 @@
       "sections": {
         "work": "Selected work",
         "skills": "Technical expertise",
+        "education": "Education",
         "year": "The year in contributions",
         "connect": "Connect"
       },
-      "projectLinks": { "repo": "Repository", "demo": "Live demo" },
+      "openRepo": "Opens the repository on GitHub",
       "chart": {
         "contributions": { "one": "{n} contribution in the last 12 months", "other": "{n} contributions in the last 12 months" },
         "commits": { "one": "{n} commit", "other": "{n} commits" },
         "busiest": "busiest week {n}",
         "none": "No contributions in the last 12 months yet",
         "alt": "Bar chart of weekly contributions over the last 12 months."
-      },
-      "connect": { "github": "GitHub", "email": "Email" },
-      "starsAlt": "stars"
+      }
     },
     "es": {
       "handle": "@arnaualemanydev · en GitHub desde {year}",
       "subtitle": "Desarrollador de software · Estudiante de ciberseguridad",
-      "intro": "Busco mi primera oportunidad profesional en el desarrollo de software, con un enfoque en ciberseguridad.",
+      "intro": "Desarrollo software con especial atención a la seguridad, la funcionalidad y la experiencia de usuario.",
       "stats": {
         "repos": "repositorios",
         "stars": "estrellas",
@@ -108,19 +150,18 @@
       "sections": {
         "work": "Proyectos seleccionados",
         "skills": "Competencias técnicas",
+        "education": "Formación",
         "year": "El año en contribuciones",
         "connect": "Contacto"
       },
-      "projectLinks": { "repo": "Repositorio", "demo": "Demo" },
+      "openRepo": "Abre el repositorio en GitHub",
       "chart": {
         "contributions": { "one": "{n} contribución en los últimos 12 meses", "other": "{n} contribuciones en los últimos 12 meses" },
         "commits": { "one": "{n} commit", "other": "{n} commits" },
         "busiest": "semana más activa: {n}",
         "none": "Aún no hay contribuciones en los últimos 12 meses",
         "alt": "Gráfico de barras de contribuciones semanales en los últimos 12 meses."
-      },
-      "connect": { "github": "GitHub", "email": "Correo" },
-      "starsAlt": "estrellas"
+      }
     }
   }
 }

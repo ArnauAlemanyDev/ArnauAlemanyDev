@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="30" viewBox="0 0 640 30" fill="none" role="img" aria-labelledby="t d">
 <title id="t">Connect</title>
-<desc id="d">04 — Connect</desc>
+<desc id="d">05 — Connect</desc>
 <style>.s{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif}.m{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}</style>
-<text x="0" y="19" class="m" font-size="12.5" fill="#3FB950">04</text>
+<text x="0" y="19" class="m" font-size="12.5" fill="#3FB950">05</text>
 <text x="30" y="19" class="s" font-size="16" fill="#E6EDF3" font-weight="600">Connect</text>
 <line x1="115.68" y1="14.5" x2="640" y2="14.5" stroke="#21262D" stroke-width="1"/>
 </svg>

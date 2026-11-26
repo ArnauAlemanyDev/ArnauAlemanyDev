@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="180" viewBox="0 0 640 180" fill="none" role="img" aria-labelledby="t d">
+<title id="t">Formación</title>
+<desc id="d">Ciberseguridad en Entornos de las Tecnologías de la Información. Curso de Especialización · En curso. Desarrollo de Aplicaciones Multiplataforma. Ciclo Formativo de Grado Superior · 2026.</desc>
+<style>.s{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif}.m{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}</style>
+<circle cx="4" cy="24.5" r="3.5" fill="#1A7F37"/>
+<text x="30" y="30" class="s" font-size="17" fill="#1F2328" font-weight="600">Ciberseguridad en Entornos de las Tecnologías</text>
+<text x="30" y="52" class="s" font-size="17" fill="#1F2328" font-weight="600">de la Información</text>
+<text x="30" y="76" class="m" font-size="12" fill="#59636E">Curso de Especialización · En curso</text>
+<line x1="30" y1="94.5" x2="640" y2="94.5" stroke="#D1D9E0" stroke-width="1"/>
+<circle cx="4" cy="132.5" r="3.5" fill="#59636E"/>
+<text x="30" y="138" class="s" font-size="17" fill="#1F2328" font-weight="600">Desarrollo de Aplicaciones Multiplataforma</text>
+<text x="30" y="162" class="m" font-size="12" fill="#59636E">Ciclo Formativo de Grado Superior · 2026</text>
+</svg>

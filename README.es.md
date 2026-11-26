@@ -6,7 +6,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/header-es-dark-m.svg">
   <source media="(max-width: 600px)" srcset="assets/generated/header-es-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/generated/header-es-dark.svg">
-  <img src="assets/generated/header-es-light.svg" alt="Arnau Alemany. Desarrollador de software · Estudiante de ciberseguridad. @arnaualemanydev · en GitHub desde 2026. Busco mi primera oportunidad profesional en el desarrollo de software, con un enfoque en ciberseguridad." width="100%">
+  <img src="assets/generated/header-es-light.svg" alt="Arnau Alemany. Desarrollador de software · Estudiante de ciberseguridad. @arnaualemanydev · en GitHub desde 2026. Desarrollo software con especial atención a la seguridad, la funcionalidad y la experiencia de usuario." width="100%">
 </picture>
 
 <picture>
@@ -25,14 +25,14 @@
 </picture>
 </h3>
 
+<a href="https://github.com/ArnauAlemanyDev/Zent">
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/project-1-es-dark-m.svg">
   <source media="(max-width: 600px)" srcset="assets/generated/project-1-es-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/generated/project-1-es-dark.svg">
-  <img src="assets/generated/project-1-es-light.svg" alt="01 Zent. Web responsive de una consultora informática ficticia: un catálogo de seis áreas de servicio, desde ciberseguridad hasta sistemas de punto de venta. React · React Router · Vite · Tailwind CSS · Framer Motion. 0 estrellas." width="100%">
+  <img src="assets/generated/project-1-es-light.svg" alt="01 Zent. Web responsive de una consultora informática ficticia. React · Vite · Tailwind CSS · Framer Motion. Abre el repositorio en GitHub." width="100%">
 </picture>
-
-[Repositorio](https://github.com/ArnauAlemanyDev/Zent) · [Demo](https://arnaualemanydev.github.io/Zent/)
+</a>
 
 <h3>
 <picture>
@@ -47,7 +47,23 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/skills-es-dark-m.svg">
   <source media="(max-width: 600px)" srcset="assets/generated/skills-es-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/generated/skills-es-dark.svg">
-  <img src="assets/generated/skills-es-light.svg" alt="Lenguajes: Java, JavaScript, Kotlin, SQL, Python (básico), C# (básico). Desarrollo: React, Tailwind CSS, HTML, CSS, Android, Sockets y servicios. Bases de datos: MySQL / MariaDB, PostgreSQL, Oracle, SQL Server, NoSQL, JDBC y ORM. Herramientas: Git, GitHub Actions." width="100%">
+  <img src="assets/generated/skills-es-light.svg" alt="Lenguajes: Java, JavaScript, Kotlin, SQL, Python (básico), C# (básico). Desarrollo: React, Node.js, Angular, Ionic, Android, HTML, CSS, Tailwind CSS. Bases de datos: MySQL, MariaDB, PostgreSQL, MongoDB. Infraestructura y herramientas: Docker, Linux, Git, GitHub Actions, VirtualBox. Ciberseguridad: Kali Linux, Nmap, Nessus." width="100%">
+</picture>
+
+<h3>
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/section-education-es-dark-m.svg">
+  <source media="(max-width: 600px)" srcset="assets/generated/section-education-es-light-m.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/generated/section-education-es-dark.svg">
+  <img src="assets/generated/section-education-es-light.svg" alt="03 — Formación" width="100%">
+</picture>
+</h3>
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/education-es-dark-m.svg">
+  <source media="(max-width: 600px)" srcset="assets/generated/education-es-light-m.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/generated/education-es-dark.svg">
+  <img src="assets/generated/education-es-light.svg" alt="Ciberseguridad en Entornos de las Tecnologías de la Información. Curso de Especialización · En curso. Desarrollo de Aplicaciones Multiplataforma. Ciclo Formativo de Grado Superior · 2026." width="100%">
 </picture>
 
 <h3>
@@ -55,7 +71,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/section-year-es-dark-m.svg">
   <source media="(max-width: 600px)" srcset="assets/generated/section-year-es-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/generated/section-year-es-dark.svg">
-  <img src="assets/generated/section-year-es-light.svg" alt="03 — El año en contribuciones" width="100%">
+  <img src="assets/generated/section-year-es-light.svg" alt="04 — El año en contribuciones" width="100%">
 </picture>
 </h3>
 
@@ -71,9 +87,13 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/section-connect-es-dark-m.svg">
   <source media="(max-width: 600px)" srcset="assets/generated/section-connect-es-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/generated/section-connect-es-dark.svg">
-  <img src="assets/generated/section-connect-es-light.svg" alt="04 — Contacto" width="100%">
+  <img src="assets/generated/section-connect-es-light.svg" alt="05 — Contacto" width="100%">
 </picture>
 </h3>
 
-**GitHub** · [github.com/ArnauAlemanyDev](https://github.com/ArnauAlemanyDev)  
-**Correo** · [arnau.alemany.espert@gmail.com](mailto:arnau.alemany.espert@gmail.com)
+<a href="mailto:arnau.alemany.espert@gmail.com">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/generated/connect-email-es-dark.svg">
+  <img src="assets/generated/connect-email-es-light.svg" alt="Enviar un correo a Arnau Alemany" width="98">
+</picture>
+</a>

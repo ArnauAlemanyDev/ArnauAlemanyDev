@@ -1,11 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="126" viewBox="0 0 360 126" fill="none" role="img" aria-labelledby="t d">
-<title id="t">Zent Web</title>
-<desc id="d">01 Zent Web. Responsive website for a fictional IT consultancy. React · Vite · Tailwind CSS · Framer Motion. Opens the repository on GitHub.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="163" viewBox="0 0 360 163" fill="none" role="img" aria-labelledby="t d">
+<title id="t">Zent ERP</title>
+<desc id="d">01 Zent ERP. IT service management ERP with an integrated customer portal and security-focused architecture. Electron · React · Node.js · SQL Server · Docker. Opens the repository on GitHub.</desc>
 <style>.s{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif}.m{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}</style>
 <text x="0" y="31" class="m" font-size="12.5" fill="#8B949E">01</text>
-<text x="30" y="32" class="s" font-size="22" fill="#E6EDF3" font-weight="600" letter-spacing="-0.3">Zent Web</text>
+<text x="30" y="32" class="s" font-size="22" fill="#E6EDF3" font-weight="600" letter-spacing="-0.3">Zent ERP</text>
 <path d="M350 29L358 21M351 21H358V28" stroke="#8B949E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="30" y="60" class="s" font-size="14" fill="#C9D1D9">Responsive website for a fictional IT</text>
-<text x="30" y="80" class="s" font-size="14" fill="#C9D1D9">consultancy.</text>
-<text x="30" y="106" class="m" font-size="11.5" fill="#8B949E">React · Vite · Tailwind CSS · Framer Motion</text>
+<text x="30" y="60" class="s" font-size="14" fill="#C9D1D9">IT service management ERP with an</text>
+<text x="30" y="80" class="s" font-size="14" fill="#C9D1D9">integrated customer portal and</text>
+<text x="30" y="100" class="s" font-size="14" fill="#C9D1D9">security-focused architecture.</text>
+<text x="30" y="126" class="m" font-size="11.5" fill="#8B949E">Electron · React · Node.js · SQL Server</text>
+<text x="30" y="143" class="m" font-size="11.5" fill="#8B949E">Docker</text>
 </svg>

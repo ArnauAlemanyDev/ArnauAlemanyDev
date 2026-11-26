@@ -13,7 +13,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/stats-es-dark-m.svg">
   <source media="(max-width: 600px)" srcset="assets/generated/stats-es-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/generated/stats-es-dark.svg">
-  <img src="assets/generated/stats-es-light.svg" alt="Repositorios: 2. Estrellas: 0. Seguidores: 0. Contribuciones, último año: 31." width="100%">
+  <img src="assets/generated/stats-es-light.svg" alt="Repositorios: 3. Estrellas: 0. Seguidores: 0. Contribuciones, último año: 32." width="100%">
 </picture>
 
 <h3>
@@ -25,12 +25,21 @@
 </picture>
 </h3>
 
-<a href="https://github.com/ArnauAlemanyDev/Zent-Web">
+<a href="https://github.com/ArnauAlemanyDev/Zent-ERP">
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/project-1-es-dark-m.svg">
   <source media="(max-width: 600px)" srcset="assets/generated/project-1-es-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/generated/project-1-es-dark.svg">
-  <img src="assets/generated/project-1-es-light.svg" alt="01 Zent Web. Web responsive de una consultora informática ficticia. React · Vite · Tailwind CSS · Framer Motion. Abre el repositorio en GitHub." width="100%">
+  <img src="assets/generated/project-1-es-light.svg" alt="01 Zent ERP. ERP de gestión de servicios informáticos con portal de clientes integrado y arquitectura orientada a la seguridad. Electron · React · Node.js · SQL Server · Docker. Abre el repositorio en GitHub." width="100%">
+</picture>
+</a>
+
+<a href="https://github.com/ArnauAlemanyDev/Zent-Web">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/project-2-es-dark-m.svg">
+  <source media="(max-width: 600px)" srcset="assets/generated/project-2-es-light-m.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/generated/project-2-es-dark.svg">
+  <img src="assets/generated/project-2-es-light.svg" alt="02 Zent Web. Web responsive de una consultora informática ficticia. React · Vite · Tailwind CSS · Framer Motion. Abre el repositorio en GitHub." width="100%">
 </picture>
 </a>
 
@@ -79,7 +88,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/year-es-dark-m.svg">
   <source media="(max-width: 600px)" srcset="assets/generated/year-es-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/generated/year-es-dark.svg">
-  <img src="assets/generated/year-es-light.svg" alt="31 contribuciones en los últimos 12 meses · 28 commits · semana más activa: 29. Gráfico de barras de contribuciones semanales en los últimos 12 meses." width="100%">
+  <img src="assets/generated/year-es-light.svg" alt="32 contribuciones en los últimos 12 meses · 28 commits · semana más activa: 30. Gráfico de barras de contribuciones semanales en los últimos 12 meses." width="100%">
 </picture>
 
 <h3>

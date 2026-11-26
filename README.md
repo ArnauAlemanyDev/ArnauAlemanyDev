@@ -13,7 +13,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/stats-en-dark-m.svg">
   <source media="(max-width: 600px)" srcset="assets/generated/stats-en-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/generated/stats-en-dark.svg">
-  <img src="assets/generated/stats-en-light.svg" alt="Repositories: 2. Stars: 0. Followers: 0. Contributions, past year: 31." width="100%">
+  <img src="assets/generated/stats-en-light.svg" alt="Repositories: 3. Stars: 0. Followers: 0. Contributions, past year: 32." width="100%">
 </picture>
 
 <h3>
@@ -25,12 +25,21 @@
 </picture>
 </h3>
 
-<a href="https://github.com/ArnauAlemanyDev/Zent-Web">
+<a href="https://github.com/ArnauAlemanyDev/Zent-ERP">
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/project-1-en-dark-m.svg">
   <source media="(max-width: 600px)" srcset="assets/generated/project-1-en-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/generated/project-1-en-dark.svg">
-  <img src="assets/generated/project-1-en-light.svg" alt="01 Zent Web. Responsive website for a fictional IT consultancy. React · Vite · Tailwind CSS · Framer Motion. Opens the repository on GitHub." width="100%">
+  <img src="assets/generated/project-1-en-light.svg" alt="01 Zent ERP. IT service management ERP with an integrated customer portal and security-focused architecture. Electron · React · Node.js · SQL Server · Docker. Opens the repository on GitHub." width="100%">
+</picture>
+</a>
+
+<a href="https://github.com/ArnauAlemanyDev/Zent-Web">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/project-2-en-dark-m.svg">
+  <source media="(max-width: 600px)" srcset="assets/generated/project-2-en-light-m.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/generated/project-2-en-dark.svg">
+  <img src="assets/generated/project-2-en-light.svg" alt="02 Zent Web. Responsive website for a fictional IT consultancy. React · Vite · Tailwind CSS · Framer Motion. Opens the repository on GitHub." width="100%">
 </picture>
 </a>
 
@@ -79,7 +88,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/year-en-dark-m.svg">
   <source media="(max-width: 600px)" srcset="assets/generated/year-en-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/generated/year-en-dark.svg">
-  <img src="assets/generated/year-en-light.svg" alt="31 contributions in the last 12 months · 28 commits · busiest week 29. Bar chart of weekly contributions over the last 12 months." width="100%">
+  <img src="assets/generated/year-en-light.svg" alt="32 contributions in the last 12 months · 28 commits · busiest week 30. Bar chart of weekly contributions over the last 12 months." width="100%">
 </picture>
 
 <h3>

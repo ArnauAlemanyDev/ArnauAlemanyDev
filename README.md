@@ -13,7 +13,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/stats-en-dark-m.svg">
   <source media="(max-width: 600px)" srcset="assets/generated/stats-en-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/generated/stats-en-dark.svg">
-  <img src="assets/generated/stats-en-light.svg" alt="Repositories: 3. Stars: 0. Followers: 0. Contributions, past year: 32." width="100%">
+  <img src="assets/generated/stats-en-light.svg" alt="Repositories: 3. Stars: 0. Followers: 0. Contributions, past year: 35." width="100%">
 </picture>
 
 <h3>
@@ -88,7 +88,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/year-en-dark-m.svg">
   <source media="(max-width: 600px)" srcset="assets/generated/year-en-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/generated/year-en-dark.svg">
-  <img src="assets/generated/year-en-light.svg" alt="32 contributions in the last 12 months · 28 commits · busiest week 30. Bar chart of weekly contributions over the last 12 months." width="100%">
+  <img src="assets/generated/year-en-light.svg" alt="35 contributions in the last 12 months · 31 commits · busiest week 33. Bar chart of weekly contributions over the last 12 months." width="100%">
 </picture>
 
 <h3>
